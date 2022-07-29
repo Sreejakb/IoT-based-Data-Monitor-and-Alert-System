@@ -130,7 +130,7 @@ RX (Bolt IoT Module) is connected to TX (NodeMCU ESP8266)
 
 TX (Bolt IoT Module) is connected to RX (NodeMCU ESP8266)
 
-<b>Video link of explanation and demonstration:</b> 
+<b>Video link of explanation and demonstration:</b> https://youtu.be/ghqOxM6Xmek
 
 <b>Before uploading the code, add the following libraries:</b>
 
