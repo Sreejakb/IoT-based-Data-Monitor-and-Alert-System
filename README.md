@@ -1,0 +1,2 @@
+# IoT-based-Data-Monitor-and-Alert-System
+Monitor the Temperature, Humidity, Air Quality, LPG, Carbon Monoxide, Smoke and detect Fire in the surrounding environment. It can send alert to Telegram based on the limit set in the telegram app using telegram bot. Telegram app can also be used to monitor the values and download the CSV File from the Bolt IoT Cloud using the date and time entered by the user. The data can be monitored and visualized on the Bolt IoT Cloud Platform. Web Server can also be used to monitor and change the threshold values of the parameters.
