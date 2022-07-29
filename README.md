@@ -66,11 +66,11 @@ A0 (MQ-2) is connected to Channel 0 (CD4051 IC)
 
 Step 4) Connect the Fire Sensor with the NodeMCU ESP8266 and Bolt IoT Module as per the following:
 
-Vcc (Rain sensor) is connected to 3.3 V (Bolt IoT Module)
+Vcc (Fire sensor) is connected to 3.3 V (Bolt IoT Module)
 
-Gnd (Rain sensor) is connected to Gnd (Bolt IoT Module)
+Gnd (Fire sensor) is connected to Gnd (Bolt IoT Module)
 
-D0 (Rain sensor) is connected to D0 (NodeMCU ESP8266)
+D0 (Fire sensor) is connected to D0 (NodeMCU ESP8266)
 
 Step 5) Connect each 7 LEDs to 150 Ohm Resistor which are then connected QA, QB, QC, QD, QE, QF, QG of SN74HC595 IC.
 
