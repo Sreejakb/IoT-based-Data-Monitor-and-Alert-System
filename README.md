@@ -132,7 +132,7 @@ TX (Bolt IoT Module) is connected to RX (NodeMCU ESP8266)
 
 <b>Video link of explanation and demonstration:</b> 
 
-Before uploading the code, add the following libraries:
+<b>Before uploading the code, add the following libraries:</b>
 
 boltiot-arduino-helper – https://github.com/Inventrom/boltiot-arduino-helper
 
